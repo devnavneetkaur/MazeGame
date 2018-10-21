@@ -25,6 +25,14 @@ public class Game implements MouseListener {
 			"img/maze5.png",
 			"img/maze6.png",
 			"img/maze7.png",
+			"img/maze8.png",
+			"img/maze9.png",
+			"img/maze10.png",
+			"img/maze11.png",
+			"img/maze12.png",
+			"img/maze13.png",
+			"img/maze14.png",
+			"img/maze15.png",
 	};
 	
 
